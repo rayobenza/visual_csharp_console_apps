@@ -1,0 +1,9 @@
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb

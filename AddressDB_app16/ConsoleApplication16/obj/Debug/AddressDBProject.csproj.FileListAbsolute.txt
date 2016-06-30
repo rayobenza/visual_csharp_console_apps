@@ -1,0 +1,16 @@
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\AddressDBProject.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\AddressDB.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\AddressDB.mdf
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\AddressDB_log.ldf
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\AddressDB.exe
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\AddressDB.pdb
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\AddressDB.exe
+c:\users\ray\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\AddressDB.pdb
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\bin\Debug\AddressDB.exe.config
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\obj\Debug\AddressDB.exe
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\obj\Debug\AddressDB.pdb
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\bin\Debug\AddressDB.mdf
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\bin\Debug\AddressDB_log.ldf
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\bin\Debug\AddressDB.exe
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\bin\Debug\AddressDB.pdb
+C:\Users\ray\Documents\Visual Studio 2015\Projects\_visual_csharp_console_apps\app16\ConsoleApplication16\obj\Debug\AddressDBProject.csprojResolveAssemblyReference.cache
